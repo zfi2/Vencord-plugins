@@ -1,0 +1,1 @@
+Blocks all stickers from being displayed in the chat

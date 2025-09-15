@@ -1,0 +1,1 @@
+Automatically replaces x.com links with fxtwitter.com.
